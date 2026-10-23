@@ -1,0 +1,178 @@
+[
+ {
+  "idempresa": "100",
+  "empresa": "ACME",
+  "direccion": "Calle 1",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1000.0,
+  "fecha_vigencia": "2026-05-01 10:00:00"
+ },
+ {
+  "idempresa": "100",
+  "empresa": "ACME",
+  "direccion": "Calle 1",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1100.0,
+  "fecha_vigencia": "2026-06-01 10:00:00"
+ },
+ {
+  "idempresa": "100",
+  "empresa": "ACME",
+  "direccion": "Calle 1",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1200.0,
+  "fecha_vigencia": "2026-07-01 10:00:00"
+ },
+ {
+  "idempresa": "200",
+  "empresa": "BETA",
+  "direccion": "Calle 2",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1050.0,
+  "fecha_vigencia": "2026-05-20 08:00:00"
+ },
+ {
+  "idempresa": "300",
+  "empresa": "GAMMA",
+  "direccion": "Calle 3",
+  "localidad": "Rosario",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1300.0,
+  "fecha_vigencia": "2026-06-10 09:00:00"
+ },
+ {
+  "idempresa": "400",
+  "empresa": "DELTA",
+  "direccion": "Calle 4",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1500.0,
+  "fecha_vigencia": "2026-07-15 09:00:00"
+ },
+ {
+  "idempresa": "200",
+  "empresa": "BETA",
+  "direccion": "Calle 2",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Gas Oil",
+  "tipohorario": "Diurno",
+  "precio": 900.0,
+  "fecha_vigencia": "2026-05-20 08:00:00"
+ },
+ {
+  "idempresa": "500",
+  "empresa": "EPSILON",
+  "direccion": "Calle 5",
+  "localidad": "CORDOBA",
+  "provincia": "CORDOBA",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 800.0,
+  "fecha_vigencia": "2026-06-01 08:00:00"
+ },
+ {
+  "idempresa": "600",
+  "empresa": "ZETA",
+  "direccion": "Calle 6",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": -5,
+  "fecha_vigencia": "2026-06-01 08:00:00"
+ },
+ {
+  "idempresa": "600",
+  "empresa": "ZETA",
+  "direccion": "Calle 6",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": "abc",
+  "fecha_vigencia": "2026-06-02 08:00:00"
+ },
+ {
+  "idempresa": "600",
+  "empresa": "ZETA",
+  "direccion": "Calle 6",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1000.0,
+  "fecha_vigencia": "14/06/2026"
+ },
+ {
+  "idempresa": "600",
+  "empresa": "ZETA",
+  "direccion": "Calle 6",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1000.0,
+  "fecha_vigencia": "2026-02-30 08:00:00"
+ },
+ {
+  "idempresa": "200",
+  "empresa": "BETA",
+  "direccion": "Calle 2",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1050.0,
+  "fecha_vigencia": "2026-05-20 08:00:00"
+ },
+ {
+  "idempresa": "700",
+  "empresa": "ETA",
+  "direccion": "Calle 7",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1000.0,
+  "fecha_vigencia": "2026-06-05 08:00:00"
+ },
+ {
+  "idempresa": "700",
+  "empresa": "ETA",
+  "direccion": "Calle 7",
+  "localidad": "ROSARIO",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1010.0,
+  "fecha_vigencia": "2026-06-05 08:00:00"
+ },
+ {
+  "idempresa": "800",
+  "empresa": "THETA",
+  "direccion": "Calle 8",
+  "localidad": "",
+  "provincia": "SANTA FE",
+  "producto": "Nafta Super",
+  "tipohorario": "Diurno",
+  "precio": 1000.0,
+  "fecha_vigencia": "2026-06-05 08:00:00"
+ }
+]
