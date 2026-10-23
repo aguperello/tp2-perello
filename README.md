@@ -177,4 +177,4 @@ Cada rechazo queda en `outputs/rechazos.csv` con número de fila, motivo y detal
 
 ## Versión evaluada
 
-**[COMPLETAR]** Hash de commit o etiqueta entregada: `git rev-parse --short HEAD` / `git tag`.
+Etiqueta **v1.0**.

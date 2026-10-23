@@ -11,7 +11,7 @@
 | Descarga directa del recurso | http://datos.energia.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv |
 | Licencia | CC-BY-4.0 (según la ficha de datos.gob.ar) — requiere citar la fuente |
 | Publicación original | 2018-03-21 · actualización declarada: cada hora |
-| Fecha de consulta | **[COMPLETAR: AAAA-MM-DD en que descargaste el archivo]** |
+| Fecha de consulta | 2026-10-23 |
 
 **Contexto normativo.** Los datos se originaron en el régimen de la Resolución 314/2016
 (informar cada cambio de precio en surtidor). Esa resolución fue abrogada por la Resolución
