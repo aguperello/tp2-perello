@@ -1,0 +1,2 @@
+# Esta aplicación usa solo la biblioteca estándar de Python (3.10 o superior):
+# csv, json, re, datetime, argparse y unittest. No hay dependencias que instalar.
