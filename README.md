@@ -49,8 +49,8 @@ Detalle de variables, procedencia, muestras y limitaciones en [`data/README.md`]
 Requiere Python 3.10 o superior. No hay dependencias externas (ver `requirements.txt`).
 
 ```
-git clone <URL-DEL-REPOSITORIO>
-cd tp2-apellido
+git clone https://github.com/aguperello/tp2-perello
+cd tp2-perello
 python -m venv .venv
 source .venv/bin/activate        # en Windows: .venv\Scripts\activate
 ```
